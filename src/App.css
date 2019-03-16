@@ -1,0 +1,25 @@
+.App, body{
+
+  background-color: #fff;
+}
+.rmbtn{ display: inline; color: red;
+  font-size: 46px; opacity: 1; }
+.btnedit{ float: inline;  margin-bottom:10px}
+
+.form-label{ font-weight: bold;}
+.outer{ border:0px solid black;    margin-top: 48px; }
+
+.inner-row{
+width: 97%;
+margin-top: 10px;
+}
+.mr36{
+  margin-right: 36px;
+}
+.fw{
+width: 95px;
+}
+.fww{
+  width: 81px;
+  display:inline-block;
+  }
